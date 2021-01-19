@@ -1,0 +1,5 @@
+We used Jest for some rudimentary testing, but with time constraints and encroaching deadlines the front-end testing was limited as we needed to focus on other aspects of the application.
+
+We tested publications, categories, and latest news to ensure our news API and application were functioning as intended.
+Two of these tests actually were successful in the terminal with the only failing one being the latest news test.
+Testing files weren't included in the application file structure as they were causing the application to crash.
